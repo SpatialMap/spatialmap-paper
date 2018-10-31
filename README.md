@@ -1,2 +1,3 @@
-# spatialmap-paper
-Paper describing spatial map
+# Paper describing spatial map
+
+Placeholder for the first *SpatialMap* paper.
